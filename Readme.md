@@ -126,7 +126,7 @@ nar.simseq <- size.select(simseq.sel,  min.size = 450, max.size = 530, graph=T, 
 ## 3205 fragments between 450 and 530 bp
 ```
 
-![](Readme_files/figure-html/ddRAD digestion-1.png)<!-- -->
+![](https://github.com/cmor2207/SimRAD/Readme_files/figure-html/ddRAD_digestion-1.png)
 
 
 Here, and on the graph, you can see that you have around 3100 to 3200 fragments fitting the size category for your ddRAD experiment.
