@@ -151,7 +151,7 @@ min
 ```
 
 ```
-## [1] "The minimum number of loci is 3066 for a genome of 100Mb and 40 GC."
+## [1] "The minimum number of loci is 3066 for a genome of 100Mb and 40% GC."
 ```
 
 ```r
