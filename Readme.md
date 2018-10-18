@@ -144,7 +144,7 @@ for (i in 1:10) {
   x[i]=length(nar.simseq)
 }
 
-min<-paste("The minimum number of loci is", min(x),"for a genome of 100Mb and 40 GC.",sep=" ")
+min<-paste("The minimum number of loci is", min(x),"for a genome of 100Mb and 40% GC.",sep=" ")
 max<-paste("The maximum number of loci is", max(x),"for a genome of 100Mb and 40% GC.",sep=" ")
 ave<-paste("The average number of loci is", mean(x),"for a genome of 100Mb and 40% GC.",sep=" ")
 min
